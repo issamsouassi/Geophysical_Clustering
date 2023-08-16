@@ -3,7 +3,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issam-souassi-74916114a/)
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/issamsouassi/Geophysical_Clustering.git)
-[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE.md)
 
   This project is part of my internship in the UMR6118 Géosciences-Rennes, it's about applying density-based clustering algorithms to geophysical data to characterize the study site's geological heterogeneity. The study site is in the town of Guidel, department of Morbihan, France.
 
