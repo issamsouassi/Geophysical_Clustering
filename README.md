@@ -18,7 +18,7 @@
 
 ___
 
-![image](FlowData.png)
+![image]()
 <p align="center"><strong>
 Flowchart of data
 </strong></p>
