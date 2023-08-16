@@ -10,7 +10,7 @@
 ### Description
   The project is done in the form of a jupyter notebook, it's made to manage geophysical data and apply DBSCAN (Density-Based Spatial Clustering of Applications with Noise) and HDBSCAN (Hierarchical Density-Based Spatial Clustering of Applications with Noise), and analyze the clusters on the assumption that the same cluster designs the same geological composition. 
 
-  N.B: the project contains two geophysical sections.
+  N.B: the project contains two geophysical cross-sections.
   
   The choice of those algorithms is based on the scientific article _"A data mining approach for improved interpretation of ERT inverted sections using the DBSCAN clustering algorithm"_ [Sabor et _al_., 2021].
 
