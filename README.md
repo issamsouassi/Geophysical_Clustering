@@ -15,6 +15,16 @@
   The choice of those algorithms is based on the scientific article _"A data mining approach for improved interpretation of ERT inverted sections using the DBSCAN clustering algorithm"_ [Sabor et _al_., 2021].
 
 ### How to use the notebook?
+
+___
+
+![image](FlowData.png)
+<p align="center"><strong>
+Flowchart of data
+</strong></p>
+
+___
+
 - The _**importing data**_ section is for importing and wrangling geophysical and wells data, then the original data is plotted to visualize its spatial distribution.
 
 - The _**Regressed parameters**_ section is optional. In order to promote the detachment of vertical heterogeneities (faults), we calculate the trend of each parameter as a function of depth after subtracting the trend of each point to focus on the lateral variation. 
@@ -32,4 +42,5 @@ dataset_DB = ['mgl_norm']
 ```
 - The _**plotting**_ section is automated to plot the results of the last executed cell of clustering, the clustering data and parameters are displayed automatically in the figure, also the two sections are plotted in the same figure and have the same color code of clusters.
 
-- The final cell, _**Clustering distribution**_ is an automated cell to plot the distribution of clusters of the last clustering cell executed, if it's unidimensional it will be a histplot, and if it's bidimensional it will be a scatterplot.
+- The final cell, _**Clustering distribution**_ is an automated cell to plot the distribution of clusters of the last clustering cell executed, if it's unidimensional it will be a _histplot_, and if it's bidimensional it will be a _scatterplot_.
+
